@@ -1,0 +1,1 @@
+# write a programme in c++ to find size of fundamental data types
